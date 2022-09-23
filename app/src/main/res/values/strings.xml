@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="vacio"> </string>
+
+    <string name="app_name">CRUD_SQLite</string>
+    <string name="btnCrearBase">Crear Base</string>
+
+    <string name="hint_nombre">Nombre: </string>
+    <string name="hint_telefono">Telefono: </string>
+    <string name="hint_correo">Correo:</string>
+    <string name="btn_guardar_registro">Guardar Registro</string>
+
+    <string name="menu_nuevo">Nuevo Registro</string>
+
+</resources>
